@@ -1,0 +1,13 @@
+.node ul.social-likes {
+    padding-left: 0;
+}
+
+.social-likes__counter_null {
+    position: absolute;
+}
+
+.social-likes_notext .social-likes__button {
+    position: relative;
+    width: 20px !important;
+    box-sizing: border-box;
+}
